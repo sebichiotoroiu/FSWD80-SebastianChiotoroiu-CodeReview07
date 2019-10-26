@@ -1,0 +1,16 @@
+h2 {
+	font-family: 'Shadows Into Light', cursive; 
+	color: green;
+	font-size: 150%;
+}
+
+h5{
+	font-family: 'Cinzel', serif;
+}
+
+.navbar {
+	opacity: 0.85;
+	height: 60px;
+}
+
+
